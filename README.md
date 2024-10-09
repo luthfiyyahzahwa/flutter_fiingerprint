@@ -1,16 +1,15 @@
 # flutter_fingerprint
 
-A new Flutter project.
+Flutter Fingerprint Authentication
 
-## Getting Started
+## Kelompok 3
 
-This project is a starting point for a Flutter application.
+Proyek ini adalah aplikasi Flutter yang menyediakan fitur otentikasi sidik jari. Aplikasi ini memungkinkan pengguna untuk masuk dengan aman menggunakan sidik jari mereka untuk memberikan pengalaman pengguna yang lebih cepat dan nyaman.
 
-A few resources to get you started if this is your first Flutter project:
+- Restu Moita Putri (H1101221003)
+- Luthfiyyah Zahwa Maitari (H1101221008)
+- Pheterson Ferry Fernando (H1101221020)
+- Puan Nabila Astari (H1101221030)
+- Erdika Nabila Rizkania (H1101221060)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pengembangan Aplikasi Perangkat Bergerak (B)
